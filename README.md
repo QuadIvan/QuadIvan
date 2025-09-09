@@ -27,4 +27,4 @@ Trilingual in **Spanish, English, and French**, I bring not only technical skill
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ivan-rico-guevara/)
-- [Email](mailto:i.rico14@gmail.com)
+- Email: i.rico14@gmail.com
