@@ -28,10 +28,10 @@ Trilingual in **Spanish, English, and French**, I bring not only technical skill
 - [HealthMax — Net Revenue Management in Excel](https://github.com/QuadIvan/healthmax-nrm-excel)
   *Excel-based FMCG case study. Includes MAT/YTD analysis, profitability matrix, promotion ROI, and 2024 NRM waterfall.*
 
--[Car Sales Forecasting (Excel)](https://github.com/QuadIvan/car_sales)
+- [Car Sales Forecasting (Excel)](https://github.com/QuadIvan/car_sales)
   *Forecasting car sales and simulating business scenarios in Excel with an interactive dashboard.*
 
- -[Supermarket Sales Dashboard (Power BI)](https://github.com/QuadIvan/supermarket_sales) 
+ - [Supermarket Sales Dashboard (Power BI)](https://github.com/QuadIvan/supermarket_sales) 
  *Interactive Power BI dashboard analyzing supermarket sales and profit across regions, customer types, and product categories.*
 
   
