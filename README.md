@@ -20,13 +20,19 @@ Trilingual in **Spanish, English, and French**, I bring not only technical skill
 ## Featured Projects
 
 - [Chess Landscape 2025: Performance & Demographics of the Modern Elite (Python)](https://github.com/QuadIvan/chess_analytics)
-  *A data-driven study of elite chess performance, focusing on the average peak age of Grandmasters, gender distribution across nations, and ELO correlation between Classical, Rapid, and Blitz formats…*
+  *A data-driven study of elite chess performance, focusing on the average peak age of Grandmasters, gender distribution across nations, and ELO correlation between Classical, Rapid, and Blitz formats using Python.*
   
 - [LA Crime Analysis (SQL, Python, Power BI)](https://github.com/QuadIvan/criminality_in_LA)    
   *Data cleaning and analysis of Los Angeles crime dataset (2023–2024). Built SQL queries, Python EDA, and Power BI dashboards with star schema modeling.*
   
 - [HealthMax — Net Revenue Management in Excel](https://github.com/QuadIvan/healthmax-nrm-excel)
   *Excel-based FMCG case study. Includes MAT/YTD analysis, profitability matrix, promotion ROI, and 2024 NRM waterfall.*
+
+-[Car Sales Forecasting (Excel)](https://github.com/QuadIvan/car_sales)
+  *Forecasting car sales and simulating business scenarios in Excel with an interactive dashboard.*
+
+ -[Supermarket Sales Dashboard (Power BI)](https://github.com/QuadIvan/supermarket_sales) 
+ *Interactive Power BI dashboard analyzing supermarket sales and profit across regions, customer types, and product categories.*
 
   
 
