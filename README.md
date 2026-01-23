@@ -6,8 +6,7 @@ Certified in **Power BI (PL-300)** and **Google Data Analytics**, with strong sk
 
 I’m a former legal professional who transitioned into data analytics to pursue my passion for solving business problems with data.  
 Skilled in **Excel**, **SQL**, **Power BI**, and **Python**, I enjoy transforming raw data into clear insights that drive decision-making.  
-I’m particularly interested in opportunities to apply analytics in **FMCG, retail, and international markets**, ideally in remote roles where I can contribute to growth while continuing to expand my technical expertise.  
-Trilingual in **Spanish, English, and French**, I bring not only technical skills but also strong communication and adaptability to diverse teams.  
+My goal is to implement robust data governance and visualization frameworks in data-driven industries. I am particularly interested in remote-first teams where I can utilize my trilingual skills to facilitate communication between technical and business stakeholders.
 
 ## Skills
 
