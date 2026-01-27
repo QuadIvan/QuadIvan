@@ -1,6 +1,6 @@
 # Hi, I'm Ivan Rico
 I’m a **Data Analyst** who transforms raw data into clear stories that support business growth and decision-making. 
-Certified in **Power BI (PL-300)** and **Google Data Analytics**, with strong skills in Excel, SQL, and Python.
+Certified in **Power BI (PL-300)** and **Google Data Analytics**, with strong skills in Excel, SQL, Power BI and Python.
 
 ## About Me
 
